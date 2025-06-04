@@ -1,0 +1,6 @@
+#F7E9C2 - light yellow
+#7B4B2A - brown
+#333333 - charcoal black
+#3E5B44 - darks green
+#B8762D - copper
+
