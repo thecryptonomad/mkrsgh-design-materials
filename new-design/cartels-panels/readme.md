@@ -1,9 +1,9 @@
-#This folder contains the PDF files to print + PNG versions
+# This folder contains the PDF files to print + PNG versions
 
-#CANVA editable links
+**CANVA editable links**
 
-Cartels: 
+- Cartels: 
 https://www.canva.com/design/DAGpeY-Bkx0/T1yLxWRMPJUoSiI0CiPpAw/edit?utm_content=DAGpeY-Bkx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
-Acrostic panels: 
+- Acrostic panels: 
 https://www.canva.com/design/DAGpeO-pCys/7OVlg2Gkw4WtjattAQPHqA/edit?utm_content=DAGpeO-pCys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
